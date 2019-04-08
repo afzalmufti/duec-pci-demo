@@ -187,7 +187,11 @@ Emergency Department
   </summary>
   <div class="nhsuk-details__text" id="details-content-0" aria-hidden="true">
     
-    <div class="embed-container"><iframe src="./index_files/embed.html" width="600" height="450" frameborder="0" style="border:0" allowfullscreen=""></iframe></div>
+    <div class="embed-container">
+
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2325.836785100543!2d-1.432622984123767!3d54.34219288019972!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487ebc839550fd97%3A0x21f47f2add1d0d3d!2sFriarage+Hospital+Accident+and+Emergency+Department!5e0!3m2!1sen!2suk!4v1554730017062!5m2!1sen!2suk" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+    </div>
     
   </div>
 </details>
@@ -254,7 +258,7 @@ Emergency Department
 
 
   <div class="embed-container">
-    <iframe src="./index_files/tSpHo655BP4.html" frameborder="0" allowfullscreen=""></iframe>
+    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/tSpHo655BP4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
 
   <div class="nhsuk-care-card nhsuk-care-card--immediate">
