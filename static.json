@@ -1,3 +1,10 @@
 {
-  "root": "/*.html": "index.html"
+  "root": "/"
+},
+{
+  "routes": {
+    "/*.html": "index.html"
+  }
 }
+
+
